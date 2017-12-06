@@ -1,5 +1,5 @@
 <?php
-	//Aula 32 - Receber dados de um formulário
+	//Aula 33 - Receber dados de um formulário
 	if (isset($_POST['email']) && !empty($_POST['email']))
 	{
 		if (isset($_POST['password']) && !empty($_POST['password']))
