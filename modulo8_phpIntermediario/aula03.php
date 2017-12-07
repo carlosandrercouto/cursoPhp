@@ -35,7 +35,7 @@
 		;
 	};
 
-	foreach ($usersList as $dados => $value) {
-		echo "<p>".$dados." =".$value["nome"]." = ".$value["idade"]." ".$value["profissao"]."<p>";
+	foreach ($usersList as $nArray => $value) {
+		echo "<p>".$nArray." =".$value["nome"]." = ".$value["idade"]." ".$value["profissao"]."<p>";
 	}
 ?>
