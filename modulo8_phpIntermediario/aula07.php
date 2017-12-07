@@ -1,5 +1,5 @@
 <?php
-	//Aula 05 - Funções matemaricas
+	//Aula 07 - Funções matemaricas
 	header("Content-type: text/html; charset=utf-8");
 
 	echo abs(-4.55); //Valor exato
